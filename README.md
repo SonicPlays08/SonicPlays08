@@ -26,13 +26,6 @@ Atualmente focado em **Análise de Dados, Desenvolvimento de Soluções** e **Me
 
 ---
 
-### 🧮 [Calculadora em JavaScript](link-do-repositorio)
-> Projeto acadêmico para colocar em prática fundamentos de Lógica de Programação.
-
-**Tecnologias:** JavaScript | HTML | CSS
-
----
-
 ## 📚 O que estou aprendendo agora
 
 - Aprofundamento em Frontend e Backend
