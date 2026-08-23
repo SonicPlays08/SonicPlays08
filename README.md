@@ -19,7 +19,7 @@ Atualmente focado em **Análise de Dados, Desenvolvimento de Soluções** e **Me
 
 ## 📂 Projetos em Destaque
 
-### 🇧🇷 [Brasiletrando – App para Ensino de Inglês Básico](link-do-repositorio)
+### 🇧🇷 [Brasiletrando – App para Ensino de Inglês Básico](https://github.com/SonicPlays08/Brasiletrando)
 > Protótipo funcional desenvolvido no MIT App Inventor com interface simplificada, exercícios sequenciais e vídeos de fácil entendimento. Projeto avaliado por mentores da Recode Pro.
 
 **Tecnologias:** App Inventor | Lógica de Programação | UX/UI Básica
